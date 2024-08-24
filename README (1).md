@@ -5,16 +5,6 @@
    </p>
 
 
-<h2>📊Repository Content</h2>
-
-<p>This repository contains the following directories and files:</p>
-
-<ul>
-<li><code>Tasks Datasets Folder</code>: A directory containing datasets used in the Jupyter notebooks.</li>
-<li><code>Tasks Notebooks Folder</code>: A directory containing Jupyter notebooks for the projects and tasks completed during the internship.</li>
-</ul>
-
-
 <h2>🔬 Project Highlights</h2>
 
 <ul><h3>Task 1: Iris Flower Classification 🌺🌸</h3>
